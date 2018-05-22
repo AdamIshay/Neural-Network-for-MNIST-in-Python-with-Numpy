@@ -1,3 +1,7 @@
+
+#from Michael Nielson's 'Neural Networks and Deep Learning'
+#https://github.com/mnielsen/neural-networks-and-deep-learning/blob/master/src/mnist_loader.py
+
 # %load mnist_loader.py
 """
 mnist_loader
